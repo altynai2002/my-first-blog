@@ -1,18 +1,21 @@
 h1 a {
-    color: #18e0d6;
+    color: #552a45;
 }
 
-/* body {
-    padding-left: 15px;
-} */
+body {
+    /* padding-left: 15px; */
+    background-color: #eed0df;
+    color: #8f4679;
+    font-family: 'Trebuchet MS', sans-serif;
+}
 
 h1 a {
-    color: #cb05fc;
+    color: #4b263d;
     font-family: 'Lobster';
 }
 
 .page-header {
-    background-color: #fc0543;
+    background-color: #e293ba;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -55,5 +58,5 @@ h1, h2, h3, h4 {
 }
 
 .post h1 a, .post h1 a:visited {
-    color: #2f1ecc;
+    color: #4b263d;
 }
